@@ -1,0 +1,10 @@
+.form-section{
+    border-style: solid;
+    width:350px;
+    height:180px;
+    margin: top 50px;
+    margin-left:500px;
+    background-color: rgb(177, 176, 240);
+    text-align:center;
+    margin:18% 20% 20% 35%;
+}
