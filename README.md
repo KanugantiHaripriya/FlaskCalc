@@ -1,6 +1,6 @@
 
 
-# flaskcalc
+# FlaskCalc
 
 ## Overview
 
