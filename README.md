@@ -4,7 +4,7 @@
 
 ## Overview
 
-flaskcalc is a simple web application built with Flask. It provides a user interface for performing basic arithmetic operations: addition, subtraction, multiplication, and division. The application includes a homepage, an index page, and a login form.
+FlaskCalc is a simple web application built with Flask. It provides a user interface for performing basic arithmetic operations: addition, subtraction, multiplication, and division. The application includes a homepage, an index page, and a login form.
 
 ## Features
 
